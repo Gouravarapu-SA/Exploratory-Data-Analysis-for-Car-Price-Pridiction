@@ -3,7 +3,6 @@
 Welcome to the **Automobile Exploratory Data Analysis (EDA)** project!  
 This notebook provides hands-on data exploration, cleaning, and visualization techniques on a car dataset — perfect for data science learners and analysts looking to sharpen their skills.
 
-> 📍 Developed and maintained by [@your-github-username](https://github.com/your-github-username)
 
 ---
 
