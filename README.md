@@ -88,7 +88,25 @@ jupyter notebook automobileEDA.ipynb
 
 ### Sample Visualization
 
-> Correlation heatmap, pairplots, boxplots, etc., are generated and analyzed in the notebook.
+<table>
+  <tr>
+    <td><img src="pairplot.png" alt="Pairplot" width="400"/></td>
+    <td><img src="heatmap.png" alt="Correlation Heatmap" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center">Seaborn Pairplot</td>
+    <td align="center">Correlation Heatmap</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="boxplot.png" alt="Boxplot" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Boxplot of Numerical Features</td>
+  </tr>
+</table>
+
+> Visualizations such as pairplots, heatmaps, and boxplots help explore data relationships and detect trends or anomalies.
+
 
 ---
 
@@ -117,4 +135,4 @@ Thanks to the **IBM Developer Skills Network** and the open-source Python data s
 
 If you have any questions or feedback, feel free to reach out:
 
-📧 **your.email@example.com**
+📧 **akhilsai96@gmail.com**
